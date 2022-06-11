@@ -24,7 +24,7 @@ const data = [
     {
         id: "456",
         title: "Order Food",
-        image: FOOD,
+        image: FOOD, 
         screen: "EatScreen",
     }
 ]
